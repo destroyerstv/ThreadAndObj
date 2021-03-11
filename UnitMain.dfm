@@ -1,0 +1,67 @@
+object FMain: TFMain
+  Left = 0
+  Top = 0
+  Caption = 'FMain'
+  ClientHeight = 468
+  ClientWidth = 560
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnClose = FormClose
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lst1: TListBox
+    Left = 0
+    Top = 0
+    Width = 560
+    Height = 443
+    Align = alClient
+    BevelInner = bvNone
+    BevelOuter = bvNone
+    ItemHeight = 13
+    TabOrder = 0
+    ExplicitLeft = 8
+    ExplicitTop = 8
+    ExplicitWidth = 121
+    ExplicitHeight = 97
+  end
+  object pnlBotom: TPanel
+    Left = 0
+    Top = 443
+    Width = 560
+    Height = 25
+    Align = alBottom
+    BevelOuter = bvNone
+    TabOrder = 1
+    object btnStart: TButton
+      Left = 410
+      Top = 0
+      Width = 75
+      Height = 25
+      Align = alRight
+      Caption = 'btnStart'
+      TabOrder = 0
+      OnClick = btnStartClick
+      ExplicitLeft = 349
+      ExplicitTop = 6
+      ExplicitHeight = 35
+    end
+    object btnStop: TButton
+      Left = 485
+      Top = 0
+      Width = 75
+      Height = 25
+      Align = alRight
+      Caption = 'btnStop'
+      TabOrder = 1
+      OnClick = btnStopClick
+      ExplicitLeft = 472
+      ExplicitTop = 16
+    end
+  end
+end

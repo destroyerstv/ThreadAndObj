@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.443,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:31:12.123,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:32:36.206,D:\Projects\ThreadAndObj.dproj=D:\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.03.10 17:33:17.193,D:\Projects\UnitMain.pas=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:33:17.193,D:\Projects\UnitMain.dfm=D:\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.03.10 17:33:44.991,D:\Projects\ThreadAndObj\UnitMain.pas=D:\Projects\UnitMain.pas</Transaction>
+    <Transaction>2021.03.10 17:33:44.991,D:\Projects\ThreadAndObj\UnitMain.dfm=D:\Projects\UnitMain.dfm</Transaction>
+    <Transaction>2021.03.10 17:33:47.653,D:\Projects\ThreadAndObj\ThreadAndObj.dproj=D:\Projects\ThreadAndObj.dproj</Transaction>
+    <Transaction>2021.03.10 17:34:12.246,=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:35:31.069,D:\Projects\ThreadAndObj\UnitThread.pas=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:35:35.815,=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:35:44.182,D:\Projects\ThreadAndObj\UnitLogger.pas=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:41:20.938,=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.10 17:41:38.420,D:\Projects\ThreadAndObj\UnitReadSettings.pas=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.11 11:14:12.728,=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.11 11:14:37.064,D:\Projects\ThreadAndObj\UnitMsg.pas=D:\Projects\ThreadAndObj\Unit1.pas</Transaction>
+    <Transaction>2021.03.11 11:22:36.020,D:\Projects\ThreadAndObj\UnitMsg.pas=</Transaction>
+    <Transaction>2021.03.11 16:45:33.172,=D:\Projects\ThreadAndObj\FastMM4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
